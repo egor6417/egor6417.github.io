@@ -50,7 +50,6 @@ a {
 /* Control the right side */
 .right {
   right: 0;
-  background-color: red;
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -63,7 +62,7 @@ a {
 }
 
 /* Style the image inside the centered container, if needed */
-.centered img {
-  width: 150px;
-  border-radius: 50%;
-}
+/* .centered img { */
+/*  width: 150px; */
+/*  border-radius: 50%; */
+/* } */
