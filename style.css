@@ -12,14 +12,15 @@
 /* Control the left side */
 .left {
   left: 0;
-  background-color: #111;
+  background-color: #b8a99a;
   color: #EAE6DA;
 }
 
 /* Control the right side */
 .right {
   right: 0;
-  background-color: red;
+  background-color: #343148;
+color: #EAE6DA;
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -47,7 +48,6 @@
 		text-align: center;}				
 
 html, body {
-	background-color: #F8FAF6 ;
 	text-color: black;
 	padding-left: 10%;
 	padding-right: 10%;}
