@@ -53,14 +53,14 @@ html, body {
 	padding-right: 10%;}
 								
 .left h1 {
-	font-family: 'Crimson Text', serif;}
-
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;}
 .left h2 {
-	font-family: 'Playfair Display', serif;
-	font-size: 29px;}
+	font-family: 'Crimson Text', serif;
+	font-size: 18px;}
 .left h3 {
-	font-family: 'Playfair Display', serif;
-	font-size: 29px;}
+	font-family: 'Crimson Text', serif;
+	font-size: 18px;}
 
 .left li {
 	font-family: 'Roboto', sans-serif;
