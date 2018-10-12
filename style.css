@@ -13,6 +13,7 @@
 .left {
   left: 0;
   background-color: #111;
+    color: #EAE6DA;
 }
 
 /* Control the right side */
@@ -34,7 +35,6 @@
 .left img {
   width: 150px;
   border-radius: 50%;
-  color: #EAE6DA;
 }
 .right img {
   width: 100%;
