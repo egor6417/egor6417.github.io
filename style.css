@@ -9,21 +9,18 @@
   padding-top: 20px;
 }
 
-/* Control the left side */
 .left {
   left: 0;
   background-color: #b8a99a;
   color: #EAE6DA;
 }
 
-/* Control the right side */
 .right {
 	right: 0;
 	background-color: #343148;
 	color: #EAE6DA;
 }
 
-/* If you want the content centered horizontally and vertically */
 .centered {
   position: absolute;
   top: 50%;
@@ -32,7 +29,6 @@
   text-align: center;
 }
 
-/* Style the image inside the centered container, if needed */
 .left img {
   width: 150px;
   border-radius: 50%;
@@ -41,16 +37,6 @@
   width: 100%;
   height: 100%;
 }
-
-.nav a {
-		color:black;
-		position: center;
-		text-align: center;}				
-
-html, body {
-	text-color: black;
-	padding-left: 10%;
-	padding-right: 10%;}
 								
 .left h1 {
 	font-family: 'Crimson Text', serif;
@@ -64,8 +50,7 @@ html, body {
 
 .left li {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
-	line-height:1.5;} 
+	font-size: 14px;} 
 	
 .left p {
 	font-family: 'Open Sans', sans-serif;}
@@ -73,6 +58,7 @@ html, body {
 .left a {
 	font-family: 'Crimson Text', serif;}
 .right a {
+	text-decoration: none;
 	color: #EAE6DA;
 	font-size: 18px;
 	font-family: 'Crimson Text', serif;}
