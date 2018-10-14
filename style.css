@@ -18,9 +18,9 @@
 
 /* Control the right side */
 .right {
-  right: 0;
-  background-color: #343148;
-color: #EAE6DA;
+	right: 0;
+	background-color: #343148;
+	color: #EAE6DA;
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -71,4 +71,7 @@ html, body {
 	font-family: 'Open Sans', sans-serif;}
 
 .left a {
+	font-family: 'Crimson Text', serif;}
+.right a {
+	color: #EAE6DA;
 	font-family: 'Crimson Text', serif;}
