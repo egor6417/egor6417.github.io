@@ -39,23 +39,29 @@
 }
 								
 .left h1 {
+	text-decoration: none;
 	font-family: 'Crimson Text', serif;
 	font-size: 30px;}
 .left h2 {
+	text-decoration: none;
 	font-family: 'Crimson Text', serif;
 	font-size: 18px;}
 .left h3 {
+	text-decoration: none;
 	font-family: 'Crimson Text', serif;
 	font-size: 18px;}
 
 .left li {
+	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;} 
 	
 .left p {
+	text-decoration: none;
 	font-family: 'Open Sans', sans-serif;}
 
 .left a {
+	text-decoration: none;
 	font-family: 'Crimson Text', serif;}
 .right a {
 	text-decoration: none;
